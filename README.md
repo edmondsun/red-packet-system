@@ -1,4 +1,4 @@
-# Red Packet System 🧧 (Built with Golang, MySQL, Redis, Kafka)
+# 🧧Red Packet System (Built with Golang, MySQL, Redis, Kafka)
 
 ## Overview
 This is a high-performance red packet system built with Golang, MySQL, Redis Cluster, and Kafka. It demonstrates:
